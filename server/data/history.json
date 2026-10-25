@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1792878130045",
+    "userName": "Yash Rathore",
+    "profileUrl": "https://www.skills.google/public_profiles/dcc56a26-7e17-4094-9bb9-cb7f0472aeff",
+    "avatarUrl": "",
+    "completedCount": 0,
+    "totalRequired": 10,
+    "percentage": 0,
+    "milestone1Completed": false,
+    "milestone2Completed": false,
+    "statusLevel": "Getting Started",
+    "checkedAt": "2026-10-24T21:42:10.044Z"
+  },
+  {
+    "id": "1792877640591",
+    "userName": "Sumit GOOGLEUSER",
+    "profileUrl": "https://www.skills.google/public_profiles/3814d80a-74aa-4369-ba28-d44d2e29048b",
+    "avatarUrl": "",
+    "completedCount": 8,
+    "totalRequired": 10,
+    "percentage": 80,
+    "milestone1Completed": true,
+    "milestone2Completed": false,
+    "statusLevel": "Milestone 1 Achiever 🎉",
+    "checkedAt": "2026-10-25T10:36:45.657Z"
+  },
+  {
+    "id": "1792876456246",
+    "userName": "Niharika Saxena",
+    "profileUrl": "https://www.skills.google/public_profiles/929e2171-b536-439f-8b15-5da122e03064",
+    "avatarUrl": "",
+    "completedCount": 1,
+    "totalRequired": 10,
+    "percentage": 10,
+    "milestone1Completed": false,
+    "milestone2Completed": false,
+    "statusLevel": "In Progress 🚀",
+    "checkedAt": "2026-10-24T21:37:11.609Z"
+  },
+  {
+    "id": "1792867568067",
+    "userName": "Build AI skills for tomorrow, today",
+    "profileUrl": "https://www.cloudskillsboost.google/public_profiles/00000000-0000-0000-0000-000000000000",
+    "avatarUrl": "",
+    "completedCount": 0,
+    "totalRequired": 10,
+    "percentage": 0,
+    "milestone1Completed": false,
+    "milestone2Completed": false,
+    "statusLevel": "Getting Started",
+    "checkedAt": "2026-10-24T18:46:08.064Z"
+  },
+  {
+    "id": "1792867541709",
+    "userName": "Alex Rivera (Demo)",
+    "profileUrl": "https://www.cloudskillsboost.google/public_profiles/demo-milestone2-10badges",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "completedCount": 10,
+    "totalRequired": 10,
+    "percentage": 100,
+    "milestone1Completed": true,
+    "milestone2Completed": true,
+    "statusLevel": "Milestone 2 Champion 🏆",
+    "checkedAt": "2026-10-24T21:10:47.122Z"
+  },
+  {
+    "id": "1792867530382",
+    "userName": "Priya Sharma (Demo)",
+    "profileUrl": "https://www.cloudskillsboost.google/public_profiles/demo-milestone1-6badges",
+    "avatarUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+    "completedCount": 6,
+    "totalRequired": 10,
+    "percentage": 60,
+    "milestone1Completed": true,
+    "milestone2Completed": false,
+    "statusLevel": "Milestone 1 Achiever 🎉",
+    "checkedAt": "2026-10-24T21:10:30.357Z"
+  }
+]

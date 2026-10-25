@@ -1,0 +1,13 @@
+<svg viewBox="35 83 252 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left bracket < -->
+  <!-- Red: upper arm (slanted ↘, drawn behind blue) -->
+  <rect x="-56" y="-22.85" width="112" height="45.7" rx="22.85" fill="#EA4335" transform="translate(95.5, 136) rotate(-35.7)" />
+  <!-- Blue: lower arm (slanted ↗, drawn on top of red) -->
+  <rect x="-56" y="-22.85" width="112" height="45.7" rx="22.85" fill="#4285F4" transform="translate(95.5, 174) rotate(35.7)" />
+
+  <!-- Right bracket > -->
+  <!-- Yellow: lower arm (slanted ↖, drawn behind green) -->
+  <rect x="-56" y="-22.85" width="112" height="45.7" rx="22.85" fill="#FBBC04" transform="translate(226.5, 174) rotate(-35.7)" />
+  <!-- Green: upper arm (slanted ↙, drawn on top of yellow) -->
+  <rect x="-56" y="-22.85" width="112" height="45.7" rx="22.85" fill="#34A853" transform="translate(226.5, 136) rotate(35.7)" />
+</svg>
